@@ -1,0 +1,6 @@
+Our first attempt at key generation did not provide reproducable subkeys
+
+We faced difficulties getting the right operations in order
+
+We had difficulities seeing the whole pictures as our algorithm grew
+
